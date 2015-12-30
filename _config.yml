@@ -1,7 +1,7 @@
 name: sotechnology
 favicon: null
-layout_spectrum: 0.24581511225551367
-typography_spectrum: 0.8056300778407604
+layout_spectrum: 1
+typography_spectrum: 0.5774
 title: SOtech
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.13147539552301168
+  brandStrength: 0.5
   lightness: 0.5709410954732448
   saturation: 0.7887506643310189
   rhythmicContrast: 0.8429493987932801
