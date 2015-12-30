@@ -1,0 +1,29 @@
+name: sotechnology
+favicon: null
+layout_spectrum: 0.24581511225551367
+typography_spectrum: 0.8056300778407604
+title: SOtech
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.13147539552301168
+  lightness: 0.5709410954732448
+  saturation: 0.7887506643310189
+  rhythmicContrast: 0.8429493987932801
+purpose: []
